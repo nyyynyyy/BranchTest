@@ -7,7 +7,7 @@ public class script2 : script1 {
 	// Use this for initialization
 	void Start () {
 
-        Debug.Log("포켓몬은 갓겜이다");
+        Debug.Log("포켓몬은 sw겜이다");
 
 	}
 	
