@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class script1 : MonoBehaviour {
+public class script2 : script1 {
 
 	// Use this for initialization
 	void Start () {
